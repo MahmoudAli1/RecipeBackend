@@ -23,3 +23,5 @@ Listing the cart items endpoint
 
 Getting the recipe from the items endpoint
 > http://127.0.0.1:3000/recipe
+
+This part should be included with the frontend but due to lack of time and prior experience of reaction commerce framework I couldn't have time to continue.
